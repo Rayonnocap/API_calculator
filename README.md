@@ -12,7 +12,7 @@ POST /multiply  {"a": 4, "b": 6}
 
 POST /divide    {"a": 10, "b": 4}
 
-<img width="1050" height="559" alt="изображение" src="https://github.com/user-attachments/assets/f81ff4a3-1348-4863-8313-ba2a374506e4" />
+<img width="1161" height="696" alt="изображение" src="https://github.com/user-attachments/assets/26b81104-51bf-4085-b5e2-c9a026fd5c43" />
 
 ## Развернуть у себя локально:
 
